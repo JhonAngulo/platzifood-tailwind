@@ -14,5 +14,9 @@
     "autoprefixer": "^10.3.6",
     "postcss-cli": "^9.0.1",
     "tailwindcss": "^2.2.16"
+  },
+  "devDependencies": {
+    "@fullhuman/postcss-purgecss": "^4.0.3",
+    "cssnano": "^5.0.8"
   }
 }
